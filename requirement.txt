@@ -1,0 +1,3 @@
+pip install wordcloud
+pip install snscrape
+pip install nltk
